@@ -17,6 +17,6 @@
 
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/sebastián-marín-garcía-3b8761257/"><img alt="LinkedIn" src="https://www.linkedin.com/in/sebasti%C3%A1n-mar%C3%ADn-garc%C3%ADa-3b8761257/"></a>
+<a href="linkedin.com/in/sebastián-marín-garcía-3b8761257"><img alt="LinkedIn" src="https://www.linkedin.com/in/sebasti%C3%A1n-mar%C3%ADn-garc%C3%ADa-3b8761257/"></a>
 <a href="sebastian14.mg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-sebastian14.mg@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
