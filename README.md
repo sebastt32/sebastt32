@@ -3,7 +3,7 @@
 
 ### About Me
 - I am 21 years old and I am from Medellin, Colombia.
-- I am a Front End Developer.
+
 
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
