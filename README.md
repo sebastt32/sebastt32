@@ -1,5 +1,5 @@
 <h1>Hello! I'm Sebastian Marin <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h2>Frontend Developer 🎨</h2>
+
 
 ### About Me
 - I am 21 years old and I am from Medellin, Colombia.
